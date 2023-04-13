@@ -1,0 +1,46 @@
+{
+  "koders": [
+    {
+      "id": 1,
+      "name": "Roberto",
+      "lastName": "Alberto",
+      "Age": "38",
+      "favoriteFood": "Chiles rellenos"
+    },
+    {
+      "id": 2,
+      "name": "Pedro",
+      "lastName": "Méndez",
+      "Age": "30",
+      "favoriteFood": "pizza"
+    },
+    {
+      "id": 3,
+      "name": "María",
+      "lastName": "López",
+      "Age": "18",
+      "favoriteFood": "Tacos"
+    },
+    {
+      "id": 4,
+      "name": "Melissa",
+      "lastName": "Rodríguez",
+      "Age": "38",
+      "favoriteFood": "Tacos"
+    },
+    {
+      "id": 6,
+      "name": "Juan Luis",
+      "lastName": "Guerra",
+      "Age": "80",
+      "favoriteFood": "Pollo"
+    },
+    {
+      "id": 7,
+      "name": "Alex",
+      "lastName": "González",
+      "Age": "50",
+      "favoriteFood": "Pizza"
+    }
+  ]
+}
